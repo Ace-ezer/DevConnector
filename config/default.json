@@ -1,6 +1,6 @@
 {
-    "mongoURI" : "mongodb://localhost:27017/DevConnector" , //Local mongo Database Uri
-    "jwtSecret" : "", // JSONwebToken , it can be anything you want it to be. ex- "xyztoken" 
-    "githubClientId": "", // To get Github repos 
+    "mongoURI" : "mongodb://localhost:27017/DevConnector" , 
+    "jwtSecret" : "", 
+    "githubClientId": "",  
     "githubSecret" : ""
 }
