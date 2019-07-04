@@ -1,6 +1,6 @@
-#DevConnector App
+# DevConnector App
 
-##Find suitable Developers for collaboration and work.
+## Find suitable Developers for collaboration and work.
 
 Download the files and Run *npm install* to install all the Dependencies.
 Also, do the same in client folder and then to run the App , Run :-
