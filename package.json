@@ -5,7 +5,9 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "it" : "nodemon server.js"
+    "it" : "nodemon server.js",
+    "client" : "npm start --prefix client",
+    "them" : "concurrently \"npm run it\" \"npm run client\""
   },
   "author": "Arpit Yadav",
   "license": "ISC",
